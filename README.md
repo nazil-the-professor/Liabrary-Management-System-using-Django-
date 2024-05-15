@@ -52,17 +52,7 @@ python manage.py runserver
 
 ## Screenshots
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
-*Admin Dashboard*
-
-![Book Management](screenshots/book_management.png)
-*Book Management*
-
-![Member Management](screenshots/member_management.png)
-*Member Management*
-
-![Borrowing and Returning](screenshots/borrowing_returning.png)
-*Borrowing and Returning*
+https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-/raw/main/Captured/Captured.mp4)
 
 
 ## Contributing
