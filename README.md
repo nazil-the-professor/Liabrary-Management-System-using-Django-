@@ -52,7 +52,7 @@ python manage.py runserver
 
 ## Screenshots
 
-https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-/raw/main/Captured/Captured.mp4)
+https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-/raw/main/Captured/Captured.mp4
 
 
 ## Contributing
