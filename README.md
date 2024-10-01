@@ -5,7 +5,7 @@ This project is a web-based Library Management System developed using Django, a 
 ## Features
 
 - **Admin Dashboard**: A user-friendly admin dashboard for librarians to manage the library system.  
-- **Book Management**: Add, edit, and delete books in the library inventory. Include details such as title, author, ISBN, genre, etc.
+- **Book Management**: Add, edit, and delete books in the library inventory. Include details such as title, author,  ISBN, genre, etc.
 - **Member Management**: Manage library members by adding, editing, and deleting their information. Include details like name, contact information, etc.
 - **Borrowing and Returning**: Facilitate the process of borrowing and returning books. Keep track of due dates and penalties for late returns.
 - **Search Functionality**: Allow users to search for books by title, author, genre, or ISBN.
